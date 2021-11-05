@@ -13,3 +13,6 @@ Contributors / Licensing
 Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.
 
 
+Sources
+========================
+- draw star - https://stackoverflow.com/a/25840319
